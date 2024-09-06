@@ -1,0 +1,1 @@
+export const MONEY_TYPES = ["EPARGNE", "ESPECE", "COURANT", "PATRIMOINE"]
